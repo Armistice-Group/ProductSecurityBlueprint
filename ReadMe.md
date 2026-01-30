@@ -1,4 +1,4 @@
-# **: Resources and Labs**
+# **The Product Security Blueprint: Resources and Labs**
 
 This repository contains the official code samples, templates, and lab exercises for **The Product Security Blueprint**, published by [Publisher].
 
